@@ -1,0 +1,6 @@
+WinSP - for copying files
+
+connect to remote server using putty
+
+10.66.29.99 ->IP
+bhupeshm/india@123
